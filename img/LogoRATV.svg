@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="33" height="33" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>LogoRATV</title>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="1.8"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#0000ff" filter="url(#svg_1_blur)" font-family="Cursive" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" x="15.703125" xml:space="preserve" y="26">RT</text>
+ </g>
+</svg>
